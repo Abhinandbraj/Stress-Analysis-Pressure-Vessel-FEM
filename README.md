@@ -1,6 +1,6 @@
 # Stress-Analysis-Pressure-Vessel-FEM
 
-# Stress Analysis of a Thin-Walled Cylindrical Pressure Vessel Using FEM in Python
+# Stress Analysis of a Thin-Walled Cylindrical Pressure Vessel Using FEM principles in Python
 
 ## Objective
 This project analyzes the stresses and safety factors in a thin-walled cylindrical pressure vessel subjected to internal pressure. The calculations are performed using the **Finite Element Method (FEM)** in Python, and the results are visualized through graphs.
