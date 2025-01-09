@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Constants ( realistic aerospace parameters)
+# Constants (  aerospace parameters)
 sigma_y = 350  # Yield strength of material in MPa (2024-T3 Aluminum)
 r = 1.5        # Radius of the vessel in meters
 t_values = [0.01, 0.015, 0.02, 0.03]  # Wall thickness in meters
